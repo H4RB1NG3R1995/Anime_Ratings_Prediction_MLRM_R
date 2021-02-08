@@ -61,5 +61,3 @@ Significant variables from the test dataset:
 
 Positively Significant: Mediatype (Movie, TV Special), Ongoing (Yes) and votes
 Negatively Significant: Mediatype (Web)
-
-Interpretation of the significant variables: Rating is positively influenced by animes which are currently ongoing, are distributed on platforms "TV" and "TV Special" and number of votes that contribute to the ratings received by different animes. The animes which are ongoing is influencing the ratings the most, since those are getting more viewer engagements. Mediatype 'Web' is negatively impacting ratings, maybe because of issues with the publication format, like streaming quality and others.
